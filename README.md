@@ -13,3 +13,4 @@ Dự án này sử dụng Python để phát hiện cạnh trong hình ảnh. Đ
      ```bash
      pip install opencv-python
      ```
+     
